@@ -1,0 +1,1 @@
+/* Legacy asset was unavailable on the source CDN. */
